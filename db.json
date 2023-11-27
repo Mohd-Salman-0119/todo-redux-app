@@ -1,0 +1,60 @@
+{
+  "todos": [
+    {
+      "todo": {
+        "todo": {
+          "id": 1,
+          "title": "Learn Redux",
+          "status": true
+        },
+        "title": "Learn Redux with salman",
+        "id": 1
+      },
+      "title": "Learn Redux with Uzra",
+      "id": 1,
+      "status": true
+    },
+    {
+      "title": "Learn Javascript",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "Javascript",
+      "status": true,
+      "id": 4
+    },
+    {
+      "title": "Flutter",
+      "status": true,
+      "id": 6
+    },
+    {
+      "title": "Redux",
+      "status": true,
+      "id": 7
+    },
+    {
+      "todo": {
+        "todo": {
+          "todo": {
+            "title": "Context api",
+            "status": true,
+            "id": 8
+          },
+          "title": "Context api",
+          "id": 8
+        },
+        "title": "Context Api With React",
+        "id": 8
+      },
+      "title": "Context Api With React 1",
+      "id": 8
+    },
+    {
+      "title": "Javascript",
+      "status": true,
+      "id": 9
+    }
+  ]
+}
